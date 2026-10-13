@@ -34,6 +34,9 @@ through AI-assisted engineering and standardized Golden Pipelines.
 
 ### 2. AI-Powered Mobile E2E Testing
 
+[View Case Study & Demo](./02-ai-mobile-testing/)
+[View AI-Assisted SDLC Case Study](./01-ai-assisted-sdlc/)
+
 **Technologies:** Maestro, AI Agents, Mobile Testing
 
 Implemented automated end-to-end testing for mobile banking
