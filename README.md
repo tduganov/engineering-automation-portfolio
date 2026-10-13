@@ -115,4 +115,4 @@ Platform Engineering, Fintech, and Technology Strategy.
 
 ## Contact
 
-LinkedIn: Add your LinkedIn profile URL
+LinkedIn: https://www.linkedin.com/in/talipzhan-duganov/
