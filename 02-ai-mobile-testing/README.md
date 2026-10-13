@@ -72,8 +72,17 @@ while Maestro executes repeatable mobile UI tests.
 
 ## Demonstration
 
-A demonstration of the automated mobile testing
-workflow is available in the repository releases.
+### Automated Mobile Regression Testing with Maestro
+
+This demonstration shows automated execution
+of mobile banking user journeys using Maestro.
+
+The workflow covers authentication, navigation,
+and payment-related scenarios.
+
+**Regression Testing: 30 Days → 2 Hours**
+
+[▶ Watch / Download Maestro Demo](https://github.com/tduganov/engineering-automation-portfolio/releases/download/v1.0.0/maestro.mp4)
 
 ## Engineering Leadership Perspective
 
