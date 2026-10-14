@@ -47,6 +47,8 @@ with 3 manual QA engineers to approximately 2 hours.
 
 ### 3. Engineering Performance Analytics
 
+[View Engineering Analytics Case Study & Dashboards](./03-engineering-analytics/)
+
 **Technologies:** Apache DevLake, Grafana, GitLab
 
 Implemented automated engineering dashboards covering:
